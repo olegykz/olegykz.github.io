@@ -237,6 +237,7 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
+  bundler
   github-pages
 
 BUNDLED WITH
