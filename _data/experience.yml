@@ -1,22 +1,66 @@
-# Jobs
-# VP of Global Communications
-- company: X1 Group
+- company: Finiata
   position: Senior software engineer
   duration: Dec, 2017 &mdash; Present
   summary: >-
-    Backend developer at Finiata.DE - Berlin-based fintech startup: Ruby 2.5, Rails 5, PosgreSQL
-    including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li>
-    <li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+    Backend developer at Finiata.DE - as a remote team player.  (employeed via outstaffing/outsourcing company <a href="http://x1group.com">X1 Group</a>)
+    <ul class="resume-item-list">
+      <li>Backoffice backend & frontend</li>
+      <li>Core features design & implementation: ledger, financial calculations, reports</li>
+      <li>3rd party services integration: payment gateways, banks, financial data sources</li>
+      <li>Operational support</li>
+    </ul>
+    Buzzwords: ruby, rails 5, postgresql, resque, rspec, heroku, kafka, ddd, fintech
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: SoftServe
+  position: Senior software engineer (certified as Abiliton-PRO Intermediate)
+  duration:  Apr, 2015 &mdash; Dec, 2017
+  summary: >-
+    Responsible for development of distributed ERP & CRM systems with Service Oriented Architecture design and strict requirements for performance, security and scalability for German (Berlin) based retail e-commerce platform.<br/>
+    Responsible for implementation of distributed platform with focus on increasing performance to allow effective processing orders in innovative CRM system supporting 15 different product suppliers with 10k+ available products in 3 countries.</br><br/>
+    Previously was responsible for platform development for an innovative SmartCloud system for climate control inside business premises (SmartCloud for Panasonic Europe). The cloud based system enables simultaneous control of the climate in numerous business locations, shops and storage premises from a single device – a smartphone, tablet or computer. Smart Cloud platform consists of server part (web application + API) and end-user devices based on Raspberry Pi which requires performance-oriented architecture and code in context of limited device resources.<br/><br/>
+    Buzzwords: ruby, rails 4, ember.js, resque, redis, mongoDB, postgresql, mysql, rspec, capybara, capistrano, raspberrypi
 
+- company: QuickBlox
+  position: Senior Software Engineer / Architect
+  duration:   Sep, 2011  &mdash; Dec, 2012; Apr, 2014  &mdash; May, 2015
+  summary: >-
+    <ul class="resume-item-list">
+      <li>Backend-as-a-Service platform for building communication software for all major mobile platforms. </li>
+      <li>Responsible for backend architecture and building API design in tight cooperation with SDK developers on all major mobile platforms (iOS/Android/Microsoft/Blackberry).</li>
+      <li>Responsible for administration panel UX</li>
+      <li>AWS services integration (EC2/SES/S3/SQS) in cooperation with DevOps team.</li>
+      <li>Enterprise clients support and product customization for dedicated product instances.</li>
+      <li>Successfully managed two developers + one QC engineer</li>
+      <li>Successfully integrated CI + CD process</li>
+    </ul>
+    Buzzwords: ruby, rails, rspec, capistrano, mysql, mongodb, aws, jenkins
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: Zone3000/Namecheap.com
+  position: Senior Software Engineer
+  duration: Apr, 2013  &mdash; Apr, 2014
+  summary: >-
+    <ul class="resume-item-list">
+      <li>Travelplanning dot com. Facebook-like social network with focus on planning future travellings.</li>
+      <li>Responsible for frontend & backend of Single-Page Application based on Backbone.JS</li>
+      <li>Responsible for creation of automated air tickets parsing system that allows end-users to build their routes, create reminders etc.</li>
+    </ul>
+    Buzzwords: ruby, rails, rspec, capistrano, postgresql, backbone, sphinx
+
+- company: Zipnosis
+  position: Software Engineer
+  duration: Dec, 2012  &mdash; Apr, 2013
+  summary: >-
+    Powerful virtual healthcare platform. Medical expert system. (employeed via outsourcing/outstaffind company Dev-Pro.net)<br/>
+    Migration existing product medical questionnaire system from JS/Clojure to Rails REST API.
+
+- company: ElKor corp.
+  position: Software Engineer
+  duration: Jan, 2007  &mdash; Sep, 2011
+  summary: >-
+    Industrial automation in area of high responsibility. Software development for DC shields at nuclear power plants, hydro power plants, substations, spaceports.
+    <ul class="resume-item-list">
+      <li>PLC's programming (Schneider Electric, ICP CON, Tekonic)</li>
+      <li>IEC 61131-3 languages - ST, FBD, IL; IDE's: Unity Pro, ISaGRAF (3 & 5)</li>
+      <li>Technical documentation & support.</li>
+    </ul>
+    .
