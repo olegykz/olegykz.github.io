@@ -10,7 +10,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Oleh Yakovenko"
+resume_name:                    "Oleg Yakovenko"
 resume_title:                   "Senior Software Engineer"
 
 # used for the contact button in _layouts/resume.html
