@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/olegykz
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://olegy.kz
+  * I am olegykz (https://keybase.io/olegykz) on keybase.
+  * I have a public key ASAvG5YrqKDgV2Cg6CmhCdUT_EUKVw5dg6D_3Amd1Difbgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01202f1b962ba8a0e05760a0e829a109d513fc450a570e5d83a0ffdc099dd4389f6e0a",
+      "host": "keybase.io",
+      "kid": "01202f1b962ba8a0e05760a0e829a109d513fc450a570e5d83a0ffdc099dd4389f6e0a",
+      "uid": "10f332c81f96f3a2a7f0f95aad8c8819",
+      "username": "olegykz"
+    },
+    "merkle_root": {
+      "ctime": 1549373733,
+      "hash": "abdaaa687e5b1d91efccfe805208b27a80e26084bfea179669e34ee2ace182a14f05719272ddef68d04607a70605edeeb166fae44366719f8a6cd5aec1639732",
+      "hash_meta": "0778d29305c88e94b48ec55d2e65a81daf0f837c2c03b16f9a5a62501bb55d87",
+      "seqno": 4702620
+    },
+    "service": {
+      "entropy": "M9sv3rddYmPl7oegMRwbv6CU",
+      "hostname": "olegy.kz",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.13.2"
+  },
+  "ctime": 1549373744,
+  "expire_in": 504576000,
+  "prev": "8941dee463bc2d6e4639c8e96b1d26d8cc1a4b729ed35e2cb9fffade88194e4f",
+  "seqno": 11,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgLxuWK6ig4FdgoOgpoQnVE/xFClcOXYOg/9wJndQ4n24Kp3BheWxvYWTESpcCC8QgiUHe5GO8LW5GOcjpax0m2MwaS3Ke014suf/63ogZTk/EID2E3xIOFC7IVfWYWHNW3wDXGJZbWwJ9F4d41YgIC+g5AgHCo3NpZ8RApetmQwLr8G4XyvQiIaeCBwjbbJiWpx2JPn05jKfyxhbRwsyyrTpWbVLESwjHa6bkUgDkOVw4KAS7EmG+QpPkBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMZVt7E54Lot6h+oNd8Nc4/bpDDAD3GSZQFkOAlThDaco3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/olegykz
+
+==================================================================
