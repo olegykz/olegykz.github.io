@@ -2,7 +2,7 @@
   position: Senior software engineer
   duration: Dec, 2017 &mdash; Present
   summary: >-
-    Backend developer at Finiata.DE - as a remote team player.  (employeed via outstaffing/outsourcing company <a href="http://x1group.com">X1 Group</a>)
+    Backend developer at Finiata.DE - as a remote team player.  (via outstaffing/outsourcing company <a href="http://x1group.com">X1 Group</a>)
     <ul class="resume-item-list">
       <li>Backoffice backend & frontend</li>
       <li>Core features design & implementation: ledger, financial calculations, reports</li>
@@ -15,9 +15,9 @@
   position: Senior software engineer (certified as Abiliton-PRO Intermediate)
   duration:  Apr, 2015 &mdash; Dec, 2017
   summary: >-
-    Responsible for development of distributed ERP & CRM systems with Service Oriented Architecture design and strict requirements for performance, security and scalability for German (Berlin) based retail e-commerce platform.<br/>
-    Responsible for implementation of distributed platform with focus on increasing performance to allow effective processing orders in innovative CRM system supporting 15 different product suppliers with 10k+ available products in 3 countries.</br><br/>
-    Previously was responsible for platform development for an innovative SmartCloud system for climate control inside business premises (SmartCloud for Panasonic Europe). The cloud based system enables simultaneous control of the climate in numerous business locations, shops and storage premises from a single device – a smartphone, tablet or computer. Smart Cloud platform consists of server part (web application + API) and end-user devices based on Raspberry Pi which requires performance-oriented architecture and code in context of limited device resources.<br/><br/>
+    Responsible for development of distributed ERP & CRM systems with Service Oriented Architecture design and strict requirements for performance, security, and scalability for German (Berlin) based retail e-commerce platform.<br/>
+    Responsible for implementation of a distributed platform with a focus on increasing performance to allow effective processing orders in an innovative CRM system supporting 15 different product suppliers with 10k+ available products in 3 countries.</br><br/>
+    Previously was responsible for platform development for an innovative SmartCloud system for climate control inside business premises (SmartCloud for Panasonic Europe). The cloud-based system enables simultaneous control of the climate in numerous business locations, shops and storage premises from a single device – a smartphone, tablet or computer. Smart Cloud platform consists of server part (web application + API) and end-user devices based on Raspberry Pi which requires performance-oriented architecture and code in the context of limited device resources.<br/><br/>
     Buzzwords: ruby, rails 4, ember.js, resque, redis, mongoDB, postgresql, mysql, rspec, capybara, capistrano, raspberrypi
 
 - company: QuickBlox
@@ -40,7 +40,7 @@
   duration: Apr, 2013  &mdash; Apr, 2014
   summary: >-
     <ul class="resume-item-list">
-      <li>Travelplanning dot com. Facebook-like social network with focus on planning future travellings.</li>
+      <li>Travelplanning dot com. Facebook-like social network with a focus on planning future travelings.</li>
       <li>Responsible for frontend & backend of Single-Page Application based on Backbone.JS</li>
       <li>Responsible for creation of automated air tickets parsing system that allows end-users to build their routes, create reminders etc.</li>
     </ul>
@@ -50,14 +50,14 @@
   position: Software Engineer
   duration: Dec, 2012  &mdash; Apr, 2013
   summary: >-
-    Powerful virtual healthcare platform. Medical expert system. (employeed via outsourcing/outstaffind company Dev-Pro.net)<br/>
+    Powerful virtual healthcare platform. Medical expert system. (via outsourcing/outstaffing company Dev-Pro.net)<br/>
     Migration existing product medical questionnaire system from JS/Clojure to Rails REST API.
 
 - company: ElKor corp.
   position: Software Engineer
   duration: Jan, 2007  &mdash; Sep, 2011
   summary: >-
-    Industrial automation in area of high responsibility. Software development for DC shields at nuclear power plants, hydro power plants, substations, spaceports.
+    Industrial automation in the area of high responsibility. Software development for DC shields at nuclear power plants, hydropower plants, substations, spaceports.
     <ul class="resume-item-list">
       <li>PLC's programming (Schneider Electric, ICP CON, Tekonic)</li>
       <li>IEC 61131-3 languages - ST, FBD, IL; IDE's: Unity Pro, ISaGRAF (3 & 5)</li>
